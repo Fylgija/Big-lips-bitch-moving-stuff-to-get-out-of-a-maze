@@ -1,2 +1,2 @@
 # Sokoban
-Big lips bitch moving stuff to get out of a maze
+This is a Sokoban like game done in JavaScript
